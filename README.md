@@ -1,7 +1,4 @@
 # Python-Clock
 
- Um relógio potente que vai receber versões recentes.
-
- Vou continuar melhorando o código!
-
- Um relógio potente.
+Digital Python Clock é um relógio potente, que tende a ficar cada dia com uma
+interface limpa e memorável.
